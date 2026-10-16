@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
 ---
  
-## Qué me mueve
+## ¿Que hay aqui? ➡️🧠
  
 Creo en una tecnología que **amplifica a la persona en vez de reemplazarla**. Esa idea (transhumanismo entendido como coexistencia hombre-máquina) guía casi todo lo que construyo.
  
@@ -33,7 +33,7 @@ También me interesa la filosofía práctica: estoicismo (ahora mismo leyendo *M
  
 - 🛠️ **EDD SISTEMAS**: mi negocio de servicios informáticos (reparación, redes, armado a medida y consultoría personalizada). Más de 50 clientes atendidos en soporte técnico.
 - 🖥️ **Homelab propio**, *privado a propósito*: virtualización, almacenamiento con integridad de datos, DNS propio, proxy inverso, monitoreo y respaldos con restauración de prueba.
-- 📐 **Infraestructura como código**: llevando mi homelab a Git, Ansible y Terraform para que sea reproducible y no dependa de mi memoria.
+- 📐 **Infraestructura como código**: llevando mi homelab a Git-Gitea, Ansible y Terraform para que sea reproducible y no dependa de mi memoria.
 ## Mi forma de trabajar
  
 - **Entender antes de ejecutar.** Prefiero saber *por qué* funciona algo antes de automatizarlo.
